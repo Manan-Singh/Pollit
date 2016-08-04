@@ -17,6 +17,7 @@ Functionality Implemented currently:
 Functionality still to Implement:
   - Make the entire website responsive (oh god, even bootstrap can't save me now)
   - Make password management system a little stronger
+  - Add functionality to allow users to change their passwords, aka "Forgot Username?" and "Forgot Password?"
   - IDK what else, I accomplished most of what I wanted
  
  
